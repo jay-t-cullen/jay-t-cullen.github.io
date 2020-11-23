@@ -1,46 +1,89 @@
----
-pagetitle: who-we-are
----
+**[Jay T.
+Cullen][][<img src="https://cullenlab.files.wordpress.com/2015/01/shapeimage_2.png?w=300" class="size-medium wp-image-24 alignright" width="300" height="193" alt="shapeimage_2" />][]**  
+**Professor**  
+tel: (250) 472-4353  
+Postal Address:  
+[School of Earth and Ocean Sciences][]  
+[Bob Wright Centre][] A415  
+University of Victoria  
+PO Box 3065 STN CSC  
+Victoria, BC Canada V8W 3V6
 
-## Jay T. Cullen
+------------------------------------------------------------------------
 
-Cullen
+**Current Research Group**
 
-## Contact Information
+------------------------------------------------------------------------
 
-<p>114 Moore Building<br/>
-Department of Psychology<br/>
-The Pennsylvania State University<br/>
-University Park, PA 16801<br/>
-814-865-3664, voice <br/>
-814-863-7002, fax<br/>
+**Graduate Students**
 
-rogilmore AT-SIGN psu DOT edu<br/>
+    **       Sarah Jackson            Christina
+Schallenberg                   Dave Janssen**
 
-<a href="https://www.personal.psu.edu/rog1">https://www.personal.psu.edu/rog1</a></br>
+\[gallery type="square" size="large" ids="54,55,56"\]
 
+------------------------------------------------------------------------
 
+**Laboratory Technicians**
 
-## Recent Alumni
+\[caption id="attachment\_58" align="alignnone"
+width="224"\][<img src="https://cullenlab.files.wordpress.com/2015/01/img_1829.jpg?w=224" class="size-medium wp-image-58" width="224" height="300" alt="Kathryn Purdon (left) and Sue Reynolds (right) processing seawater samples for radiocesium measurements." />][]
+Kathryn Purdon (left) and Sue Reynolds (right) processing seawater
+samples for radiocesium measurements.\[/caption\]
 
-- Alyssa Pandos
-- Charmi Mehta
-- Raya Willoughby
-- Katie Torres
-- Shivani Patel
-- Michael O'Neill, Graduate student, PSU
-- Daved Fared
-- Auburn Lattanzio
-- Michelle Shade
-- Sam Pai
-- Jun Oh, Apprentice Ruby on Rails Developer, Launch Academy, Inc.
-- Amanda Thomas, Postdoctoral researcher, Swarthmore
-- William Adamiak, NIH IRTA
-- Shivam Vedak, Medical student
-- Dan Elbich, Graduate student, Penn State
-- Jeremy Fesi, Ph.D., US Marine Corps Research
-- Lorena Gonzalez, Graduate student, Penn State
-- Ricky Groner, IT Support Specialist, Huck Institutes of the Life Sciences, Penn State
-- Ken Hwang, Consultant, Anexinet
-- Matthew Lee, MBA student, Penn State
-- Patricia Jones, Optometry student, Pennsylvania College of Optometry
+------------------------------------------------------------------------
+
+**Alumni**
+
+Dave Janssen (PhD)
+
+Christina Schallenberg (PhD)
+
+Cassie Schwanger (MSc)
+
+Patricia Collins (MSc)
+
+Tim Giesbrecht (MSc)
+
+Masaya Shinki (MSc)
+
+Marina Chong (MSc)
+
+<div id="id12" class="style_SkipStroke_1 shape-with-text">
+
+<div
+class="text-content graphic_textbox_layout_style_default_External_214_170">
+
+<div class="graphic_textbox_layout_style_default">
+
+Kathryn Purdon
+
+Desiree Dillman
+
+Ashley Davidson
+
+Meara Crawford
+
+Lisa Douglas
+
+Keegan Raines
+
+Laura Turner
+
+Byron Yep
+
+</div>
+
+</div>
+
+</div>
+
+  [Jay T. Cullen]: mailto:jcullen@uvic.ca?subject=Contact
+    "mailto:jcullen@uvic.ca?subject=Contact"
+  [<img src="https://cullenlab.files.wordpress.com/2015/01/shapeimage_2.png?w=300" class="size-medium wp-image-24 alignright" width="300" height="193" alt="shapeimage_2" />]:
+    https://cullenlab.files.wordpress.com/2015/01/shapeimage_2.png
+  [School of Earth and Ocean Sciences]: http://www.uvic.ca/science/seos/
+  [Bob Wright Centre]: http://www.uvic.ca/buildings/sci.html
+    "http://www.uvic.ca/buildings/sci.html"
+  [<img src="https://cullenlab.files.wordpress.com/2015/01/img_1829.jpg?w=224" class="size-medium wp-image-58" width="224" height="300" alt="Kathryn Purdon (left) and Sue Reynolds (right) processing seawater samples for radiocesium measurements." />]:
+    https://cullenlab.files.wordpress.com/2015/01/img_1829.jpg
