@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![Amundsen](images/Amundsen1.JPG)
 
-#What We Do
+# What We Do
 
 We aim to understand the chemical speciation and fate of trace elements and isotopes in natural waters and how anthropogenic environmental perturbations affect trace element biogeochemical cycles and vice versa. This type of research is multidisciplinary combining geochemistry, bioinorganic chemistry, microbial physiology and analytical chemistry.  Research projects in Chemical Oceanography can be designed to include both laboratory and sea-going, field work.  We are always on the lookout for motivated graduate and undergraduates to join our group.
 
