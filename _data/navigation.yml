@@ -3,8 +3,8 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "News"
-    url: /year-archive/
+#  - title: "News"
+    #url: /year-archive/
 
   - title: "Research Interests"
     url: /interests/
@@ -12,14 +12,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
+  #- title: "Talks"
+  #  url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+  #  url: /teaching/
 
-  - title: "Outreach" 
+  - title: "Outreach"
     url: /outreach/
 
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+    #url: /cv/
