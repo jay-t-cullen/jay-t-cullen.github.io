@@ -1,0 +1,39 @@
+---
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: true
+---
+<p style="text-align: center;"><strong><a title="mailto:jcullen@uvic.ca?subject=Contact" href="mailto:jcullen@uvic.ca?subject=Contact">Jay T. Cullen</a><a href="https://cullenlab.files.wordpress.com/2015/01/shapeimage_2.png"><img class=" size-medium wp-image-24 alignright" src="https://cullenlab.files.wordpress.com/2015/01/shapeimage_2.png?w=300" alt="shapeimage_2" width="300" height="193" /></a></strong><br /><strong>Professor</strong><br />tel: (250) 472-4353<br />Postal Address:<br /><a href="http://www.uvic.ca/science/seos/" target="_blank" rel="noopener">School of Earth and Ocean Sciences</a><br /><a title="http://www.uvic.ca/buildings/sci.html" href="http://www.uvic.ca/buildings/sci.html">Bob Wright Centre</a> A415<br />University of Victoria<br />PO Box 3065 STN CSC<br />Victoria, BC Canada V8W 3V6</p>
+<hr />
+<p style="text-align: left;"><strong>Current Research Group</strong></p>
+<hr />
+<p style="text-align: left;"><strong>Graduate Students</strong></p>
+<p style="text-align: left;">    <strong>       Sarah Jackson            Christina Schallenberg                   Dave Janssen</strong></p>
+<p>[gallery type="square" size="large" ids="54,55,56"]</p>
+<hr />
+<p><strong>Laboratory Technicians</strong></p>
+[caption id="attachment_58" align="alignnone" width="224"]<a href="https://cullenlab.files.wordpress.com/2015/01/img_1829.jpg"><img class="size-medium wp-image-58" src="https://cullenlab.files.wordpress.com/2015/01/img_1829.jpg?w=224" alt="Kathryn Purdon (left) and Sue Reynolds (right) processing seawater samples for radiocesium measurements." width="224" height="300" /></a> Kathryn Purdon (left) and Sue Reynolds (right) processing seawater samples for radiocesium measurements.[/caption]
+<hr />
+<p><strong>Alumni</strong></p>
+<p>Dave Janssen (PhD)</p>
+<p>Christina Schallenberg (PhD)</p>
+<p>Cassie Schwanger (MSc)</p>
+<p>Patricia Collins (MSc)</p>
+<p>Tim Giesbrecht (MSc)</p>
+<p>Masaya Shinki (MSc)</p>
+<p>Marina Chong (MSc)</p>
+<div id="id12" class="style_SkipStroke_1 shape-with-text">
+<div class="text-content graphic_textbox_layout_style_default_External_214_170">
+<div class="graphic_textbox_layout_style_default">
+<p class="Body">Kathryn Purdon</p>
+<p class="Body">Desiree Dillman</p>
+<p class="Body">Ashley Davidson</p>
+<p class="Body">Meara Crawford</p>
+<p class="Body">Lisa Douglas</p>
+<p class="Body">Keegan Raines</p>
+<p class="Body">Laura Turner</p>
+<p class="Body">Byron Yep</p>
+</div>
+</div>
+</div>
