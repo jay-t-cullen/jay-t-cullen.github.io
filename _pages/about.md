@@ -1,4 +1,4 @@
-![Amundsen in the Canadian Arctic](Amundsen1.jpg)
+![Amundsen in the Canadian Arctic](https://github.com/jay-t-cullen/jay-t-cullen.github.io/blob/master/images/Amundsen1.JPG)
 ---
 permalink: /
 title: "Cullen Lab: Trace element and isotopes in natural waters"
