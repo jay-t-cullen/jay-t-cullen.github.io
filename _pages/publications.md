@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p>(* indicates UVic supervised graduate student/HQP, ** indicates a UVic supervised undergraduate student)<sup>*</sup></p>
+<p>(* indicates UVic supervised graduate student, ** indicates a UVic supervised undergraduate student)</p>
 <ol>
 
 <li value="59"><sup>**</sup>Meyer, A.C.S., D. Grundle, and <strong>J.T. Cullen</strong>. (in review). Selective uptake of rare earth elements in marine systems as an indicator of and control on aerobic bacterial methanotrophy. Earth and Planetary Science Letters.</li>
