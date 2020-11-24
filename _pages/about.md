@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Cullen Lab:
-Investigating trace element and isotope biogeochemistry in natural waters"
+title: "Cullen Lab:"
 #excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+# Investigating trace element and isotope biogeochemistry in natural waters
 ![Amundsen](images/Amundsen1.JPG)
 ## What We Do
 
