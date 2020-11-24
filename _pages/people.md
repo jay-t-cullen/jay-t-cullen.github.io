@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
-# Under construction
+### Under construction
 
 ## Current Research Group
 Tia Anderlini (PhD student)
