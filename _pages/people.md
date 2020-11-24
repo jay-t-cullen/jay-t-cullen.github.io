@@ -4,7 +4,9 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
-## Current Graduate Students
+# Under construction
+
+## Current Research Group
 Tia Anderlini (PhD student)
 
 Robyn Taves (MSc)
@@ -15,7 +17,7 @@ Meghan Zee (MSc)
 
 Grayson Soetaert (BSc, NSERC USRA)
 
-## Student Alumni
+## Research Group Alumni
 
 Dave Janssen (PhD)
 
