@@ -17,6 +17,8 @@ Meghan Zee (MSc)
 
 Grayson Soetaert (BSc, NSERC USRA)
 
+Nimrod Rozen (BSc, NSERC USRA)
+
 ## Research Group Alumni
 
 Dave Janssen (PhD)
