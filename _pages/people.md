@@ -9,17 +9,21 @@ author_profile: true
 ## Current Research Group
 Tia Anderlini (PhD student)
 
-Robyn Taves (MSc)
-
 Melissa Mills (MSc)
 
 Meghan Zee (MSc)
 
+Meghan Reyda-Molnar (BSc, NSERC USRA)
+
+## Research Group Alumni
+
+Annaliese Meyer (BSc, NSERC USRA)
+
+Robyn Taves (MSc)
+
 Grayson Soetaert (BSc, NSERC USRA)
 
 Nimrod Rozen (BSc, NSERC USRA)
-
-## Research Group Alumni
 
 Dave Janssen (PhD)
 
