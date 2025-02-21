@@ -17,6 +17,8 @@ Meghan Reyda-Molnar (BSc, NSERC USRA)
 
 ## Research Group Alumni
 
+Chris Latimer (BSc, NSERC USRA)
+
 Annaliese Meyer (BSc, NSERC USRA)
 
 Robyn Taves (MSc)
