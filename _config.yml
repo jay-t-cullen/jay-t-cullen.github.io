@@ -84,10 +84,10 @@ author:
   avatar           : "jaycullen.png"
   bio              : "Professor and Director of SEOS investigating trace element and isotope chemistry in natural waters."
   location         : "Victoria, BC Canada"
-  employer         :
+  employer         : "University of Victoria, School of Earth and Ocean Sciences"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dQh0GbwAAAAJ&hl=en&oi=ao"
-  email            :
+  email            :  "jcullen@uvic.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@JayTCullen"
+  twitter          : # "@JayTCullen"
   vine             :
   weibo            :
   xing             :
